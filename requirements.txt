@@ -1,0 +1,16 @@
+openai
+pandas
+openpyxl
+requests
+urllib3
+beautifulsoup4
+trafilatura
+sentence-transformers
+torch
+scikit-learn
+google-search-results
+python-dotenv
+numpy
+Pillow
+lxml
+tqdm
